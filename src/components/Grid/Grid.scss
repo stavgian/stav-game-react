@@ -1,0 +1,14 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	min-width: 360px;
+	max-width: 80vh;
+	height: 100vw;
+    max-height: 80vh;
+	min-height: 360px;	
+	&  div{
+		box-shadow: inset 0px 0px 42px -5px rgba(0,0,0,0.75);
+		transition: background-color 0.5s ease;
+
+	}
+}

@@ -5,7 +5,7 @@ import Grid from './components/Grid/Grid';
 import ColorPickers from './components/ColorPickers/ColorPickers';
 
 const SIZE = 6;
-const COLORS = ['blue','red','green','yellow','orange'];
+const COLORS = ['blue','red','green','yellow','orange','purple','navy','aqua','maroon','pink'];
 
 
 class App extends Component {

@@ -5,3 +5,8 @@
 	padding: 0px;
 	margin-right: 0px;
 }
+
+.picker {
+    box-shadow: inset 0px 0px 42px -5px rgba(0,0,0,0.75);
+transition: background-color 0.5s ease;
+}
